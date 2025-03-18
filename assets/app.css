@@ -1,0 +1,72 @@
+/* Import Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.card {
+  @apply overflow-hidden rounded-lg bg-white px-6 py-8 shadow-md;
+}
+
+.card .card-header {
+  @apply border-b border-gray-200 bg-gray-100 p-4;
+}
+
+.card .card-title {
+  @apply text-base font-medium tracking-tight text-white dark:text-gray-900;
+}
+
+.card .card-body {
+  @apply text-sm text-gray-200 dark:text-gray-800;
+}
+
+.card .card-footer {
+  @apply border-t border-gray-200 bg-gray-100 p-4;
+}
+
+.card-dark {
+  @apply rounded-lg bg-white px-6 py-8 shadow-xl ring ring-gray-900/5 dark:bg-gray-800;
+}
+
+.card-dark .card-title {
+  @apply text-base font-medium tracking-tight text-gray-900 dark:text-white;
+}
+
+.card-dark .card-body {
+  @apply text-sm text-gray-500 dark:text-gray-400;
+}
+
+body {
+  @apply bg-gray-100 text-gray-900 antialiased;
+}
+
+header {
+  @apply bg-blue-500 bg-gradient-to-b from-blue-500 to-gray-100 p-4 text-white;
+}
+
+main {
+  @apply flex-grow;
+}
+
+footer {
+  @apply bg-slate-700 p-4 text-white;
+}
+
+h1 {
+  @apply text-3xl font-bold;
+}
+
+p {
+  @apply text-lg;
+}
