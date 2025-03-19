@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import MDevelop from './MDevelop.vue';
-</script>
-
 <template>
   <header class="bg-gradient-to-b from-gray-900 to-white px-8 py-2 text-white">
     <div class="grid grid-cols-2 items-center gap-6">

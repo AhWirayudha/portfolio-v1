@@ -27,7 +27,7 @@
       class="absolute inset-0 flex flex-col items-center justify-center opacity-0 transition-opacity duration-300 group-hover:opacity-100"
     >
       <p class="card-title font-mono text-xs text-white">
-        develop using nuxt3 & tailwindcss
+        developed using nuxt3 & tailwindcss
       </p>
     </div>
   </div>

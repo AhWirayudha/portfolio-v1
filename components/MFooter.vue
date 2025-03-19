@@ -1,6 +1,6 @@
 <template>
   <footer class="flex h-16 items-center justify-center gap-4">
-    <p class="text-sm">&copy; 2025</p>
+    <p class="text-sm">&copy; 2025 AhWirayudha</p>
     <p class="flex flex-row items-center justify-center gap-1 text-sm">
       <img
         src="/assets/images/github-svgrepo-com.svg"
