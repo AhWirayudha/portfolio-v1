@@ -1,11 +1,11 @@
 <template>
   <header class="bg-gradient-to-b from-gray-900 to-white px-8 py-2 text-white">
-    <div class="grid grid-cols-2 items-center gap-6">
+    <div class="grid grid-cols-1 items-center gap-6 lg:grid-cols-2">
       <!-- Left Column: Profile Introduction -->
       <div>
         <MDevelop />
-        <h1 class="text-4xl font-bold">
-          <span class="text-xl">I'M </span>AH. WIRAYUDHA
+        <h1 class="pt-8 text-xl font-bold lg:pt-0 lg:text-4xl">
+          <span class="text-lg lg:text-xl">I'M </span>AH. WIRAYUDHA
         </h1>
         <p class="mt-4 text-justify text-lg">
           Results-driven
@@ -31,7 +31,7 @@
       </div>
 
       <!-- Right Column: Profile Image -->
-      <div class="relative flex justify-center">
+      <div class="relative flex justify-center py-5 lg:pt-0">
         <!-- Background Text -->
         <div
           class="absolute inset-0 flex flex-col items-center justify-center gap-4"

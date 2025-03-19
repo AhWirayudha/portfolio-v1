@@ -1,10 +1,10 @@
 <template>
   <div
-    class="group absolute top-10 flex h-10 w-20 items-center justify-center rounded-lg border-2 bg-gray-800 shadow-lg transition-all duration-300 hover:w-80 hover:bg-gray-700"
+    class="group relative flex h-6 w-60 items-center justify-center rounded-lg border-2 bg-gray-800 shadow-lg transition-all duration-300 hover:w-80 hover:bg-gray-700 lg:absolute lg:top-10 lg:h-10 lg:w-20"
   >
     <!-- Icon (Default View) -->
     <div
-      class="absolute inset-0 flex items-center justify-center transition-opacity duration-300 group-hover:opacity-0"
+      class="absolute inset-0 flex items-center justify-center opacity-0 transition-opacity duration-300 lg:opacity-100 lg:group-hover:opacity-0"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
 
     <!-- Full Content (Shown on Hover) -->
     <div
-      class="absolute inset-0 flex flex-col items-center justify-center opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+      class="absolute inset-0 flex flex-col items-center justify-center opacity-100 transition-opacity duration-300 lg:opacity-0 lg:group-hover:opacity-100"
     >
       <p class="card-title font-mono text-xs text-white">
         developed using nuxt3 & tailwindcss
