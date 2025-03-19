@@ -1,6 +1,6 @@
 <template>
   <div
-    class="group relative flex h-6 w-60 items-center justify-center rounded-lg border-2 bg-gray-800 shadow-lg transition-all duration-300 hover:w-80 hover:bg-gray-700 lg:absolute lg:top-10 lg:h-10 lg:w-20"
+    class="w-70 group relative flex h-8 items-center justify-center rounded-lg border-2 bg-gray-800 shadow-lg transition-all duration-300 hover:w-80 hover:bg-gray-700 lg:absolute lg:top-10 lg:h-10 lg:w-20"
   >
     <!-- Icon (Default View) -->
     <div
