@@ -47,7 +47,7 @@
         </div>
       </div>
       <div class="card-dark">
-        <h3 class="card-title">tools</h3>
+        <h3 class="card-title">tools and monitoring</h3>
         <div class="flex gap-4 py-4">
           <img
             src="/assets/images/rabbitmq-icon-svgrepo-com.svg"
@@ -62,6 +62,11 @@
           <img
             src="/assets/images/nodejs-icon-svgrepo-com.svg"
             alt="nodejs logo"
+            class="h-8 w-8"
+          />
+          <img
+            src="/assets/images/grafana-svgrepo-com.svg"
+            alt="grafana logo"
             class="h-8 w-8"
           />
         </div>
