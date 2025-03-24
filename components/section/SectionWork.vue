@@ -12,7 +12,7 @@
         professional excellence.
       </p>
     </div>
-    <div class="relative items-center gap-4 p-4">
+    <div class="relative max-w-[100%] items-center gap-4 p-4 lg:max-w-[60%]">
       <ol class="relative border-s border-gray-200 dark:border-gray-700">
         <li class="mb-10 ms-4">
           <div
@@ -20,37 +20,23 @@
           />
           <time
             class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >February 2022</time
+            >Aug 2024 - Des 2024</time
           >
-          <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Application UI code in Tailwind CSS
-          </h3>
-          <p
-            class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400"
-          >
-            Get access to over 20+ pages including a dashboard layout, charts,
-            kanban board, calendar, and pre-order E-commerce & Marketing pages.
-          </p>
-          <a
-            href="#"
-            class="inline-flex items-center rounded-lg border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:text-blue-700 focus:outline-none focus:ring-4 focus:ring-gray-100 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-700"
-            >Learn more
-            <svg
-              class="ms-2 h-3 w-3 rtl:rotate-180"
-              aria-hidden="true"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 14 10"
+          <div class="card-dark">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              Frontend Developer at Direktorat Jenderal Pendidikan Islam,
+              Kementerian Agama RI
+            </h3>
+            <p
+              class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400"
             >
-              <path
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M1 5h12m0 0L9 1m4 4L9 9"
-              />
-            </svg>
-          </a>
+              Mainly work for the Project Management Unit Realizing Education
+              Promises—Madrasah Education Quality Reform. The task is to rewrite
+              the Official Work Travel Application to be used for the entire
+              Kementerian Agama. Other than that support for production apps is
+              provided based on request.
+            </p>
+          </div>
         </li>
         <li class="mb-10 ms-4">
           <div
@@ -58,32 +44,85 @@
           />
           <time
             class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >March 2022</time
+            >Sep 2022 - Jun 2024</time
           >
-          <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Marketing UI design in Figma
-          </h3>
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            All of the pages and components are first designed in Figma and we
-            keep a parity between the two versions even as we update the
-            project.
-          </p>
+          <div class="card-dark">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              Backend Developer at PT. Informatika Media Pratama
+            </h3>
+            <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+              Engaged in agile software development, actively collaborating with
+              data teams for big data projects and product teams for optimal
+              user experiences. Successfully explored solutions to optimize and
+              restore unusable applications, transforming them into functional,
+              user-friendly platforms after two years of disuse. Managed
+              monitoring and provided robust support for high-traffic
+              applications, ensuring seamless performance and exceptional user
+              satisfaction.
+            </p>
+          </div>
         </li>
-        <li class="ms-4">
+        <li class="mb-10 ms-4">
           <div
             class="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 dark:border-gray-900 dark:bg-gray-700"
           />
           <time
             class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >April 2022</time
+            >Aug 2021 - Aug 2022</time
           >
-          <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            E-Commerce UI code in Tailwind CSS
-          </h3>
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            Get started with dozens of web components and interactive elements
-            built on top of Tailwind CSS.
-          </p>
+          <div class="card-dark">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              Software Engineer at CV. Alkas Tryasa Adhimukti
+            </h3>
+            <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+              Built end-to-end web applications for the port industry, serving
+              as a fullstack developer. Managed ongoing support and maintenance
+              for customer portal applications, ensuring seamless functionality
+              and user satisfaction.
+            </p>
+          </div>
+        </li>
+        <li class="mb-10 ms-4">
+          <div
+            class="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 dark:border-gray-900 dark:bg-gray-700"
+          />
+          <time
+            class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
+            >May 2018 - Jan 2021</time
+          >
+          <div class="card-dark">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              Software Engineer at PT. Bina Informasi Optima Solusindo
+            </h3>
+            <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+              Teamed up with developers to design robust solutions,
+              demonstrating versatility as a backend and frontend developer.
+              Utilized deep knowledge of port industry requirements to create
+              tailored solutions, exceeding client expectations. Specialized in
+              seamless integration of diverse applications into customized
+              customer portals, enhancing user experience and operational
+              efficiency.
+            </p>
+          </div>
+        </li>
+        <li class="mb-10 ms-4">
+          <div
+            class="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 dark:border-gray-900 dark:bg-gray-700"
+          />
+          <time
+            class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
+            >Mar 2015 - Feb 2016</time
+          >
+          <div class="card-dark">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              Software Engineer at CV. Zi & Ze
+            </h3>
+            <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+              Played a key role in enhancing the hospital management software by
+              addressing critical bugs. Led the implementation of a robust
+              reporting feature to generate detailed and insightful reports.
+            </p>
+          </div>
         </li>
       </ol>
     </div>

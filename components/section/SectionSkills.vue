@@ -36,6 +36,14 @@
             alt="typescript logo"
             class="h-8 w-8"
           />
+          <div class="card-body flex flex-col items-center justify-center">
+            <img
+              src="/assets/images/nextjs-fill-svgrepo-com.svg"
+              alt="nextjs logo"
+              class="h-8 w-8"
+            />
+            <span class="text-xs">nextJs</span>
+          </div>
         </div>
       </div>
       <div class="card-dark">
@@ -71,6 +79,14 @@
             alt="grafana logo"
             class="h-8 w-8"
           />
+          <div class="card-body flex flex-col items-center justify-center">
+            <img
+              src="/assets/images/sonarqube-svgrepo-com.svg"
+              alt="sonarqube logo"
+              class="h-8 w-8 justify-center rounded-lg bg-white p-1"
+            />
+            <span class="text-xs">sonarqube</span>
+          </div>
         </div>
       </div>
     </div>
