@@ -10,9 +10,9 @@
         words.
       </p>
     </div>
-    <div class="relative grid grid-cols-1 gap-4 p-4 lg:grid-cols-3">
+    <div class="relative grid grid-cols-1 gap-4 lg:grid-cols-3">
       <div
-        class="h-fit max-w-sm rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
+        class="h-fit max-w-lg rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
       >
         <a href="#">
           <img
@@ -39,7 +39,7 @@
         </div>
       </div>
       <div
-        class="h-fit max-w-sm rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
+        class="grid h-fit max-w-lg grid-cols-2 rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
       >
         <a href="#">
           <img
@@ -66,7 +66,7 @@
         </div>
       </div>
       <div
-        class="h-fit max-w-sm rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
+        class="grid h-fit max-w-lg grid-cols-2 rounded-lg border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
       >
         <a href="#">
           <img class="rounded-t-lg" src="/assets/images/porgan.jpg" alt="" />
