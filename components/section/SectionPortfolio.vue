@@ -24,12 +24,14 @@
         <div class="p-5">
           <a href="#">
             <h5
-              class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+              class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-white"
             >
               HCM Recruitment Dashboard
             </h5>
           </a>
-          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+          <p
+            class="mb-3 text-justify text-base font-normal text-gray-700 dark:text-gray-400"
+          >
             HCM Recruitment Dashboard is an application for viewing recruitment
             data in chart form to make it easier to read the data. This
             application is built using HTML, CSS, JavaScript and ChartJs.
@@ -49,12 +51,14 @@
         <div class="p-5">
           <a href="#">
             <h5
-              class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+              class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-white"
             >
               AppSheet Rengel Tuban
             </h5>
           </a>
-          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+          <p
+            class="mb-3 text-justify text-base font-normal text-gray-700 dark:text-gray-400"
+          >
             AppSheet Rengel Tuban is a monitoring application for the work of
             the public works department in the Rengel area of Tuban Regency.
             This application is built using Laravel.
@@ -70,12 +74,14 @@
         <div class="p-5">
           <a href="#">
             <h5
-              class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+              class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-white"
             >
               Poros Ganjaran
             </h5>
           </a>
-          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+          <p
+            class="mb-3 text-justify text-base font-normal text-gray-700 dark:text-gray-400"
+          >
             Poros Ganjaran is an Android-based mobile application built with
             React Native. This application is a monitoring activity of Poros
             Ganjaran volunteers during the 2024 presidential election.
