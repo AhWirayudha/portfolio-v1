@@ -27,6 +27,13 @@
           >
             GitHub
           </a>
+          <a
+            href="https://www.linkedin.com/in/aha706"
+            target="_blank"
+            class="rounded bg-white px-4 py-2 font-semibold text-blue-500 shadow hover:bg-gray-100"
+          >
+            LinkedIn
+          </a>
         </div>
       </div>
 
